@@ -1,0 +1,9 @@
+URL,Código de error,Referencia
+http://httpstat.us/425,425,http://httpstat.us
+http://httpstat.us/498,498,http://httpstat.us
+http://httpstat.us/102,Timeout/Error,http://httpstat.us
+http://httpstat.us/408,408,http://httpstat.us
+http://httpstat.us/463,463,http://httpstat.us
+http://httpstat.us/450,450,http://httpstat.us
+http://httpstat.us/413,413,http://httpstat.us
+http://httpstat.us/404,404,http://httpstat.us
